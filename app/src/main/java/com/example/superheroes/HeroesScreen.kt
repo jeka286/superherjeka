@@ -73,6 +73,7 @@ fun HeroesList(
         }
     }
 
+
     // Fade in entry animation for the entire list
     AnimatedVisibility(
         visibleState = visibleState,
@@ -137,7 +138,7 @@ fun HeroListItem(
 
             ) {
                 Image(
-                    painter = painterResource(hero.imageRes),
+                    painter = painterResource(R.drawable.nikifor),
                     contentDescription = null,
                     alignment = Alignment.TopCenter,
                     contentScale = ContentScale.FillWidth

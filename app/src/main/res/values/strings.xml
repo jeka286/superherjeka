@@ -15,17 +15,17 @@
   -->
 
 <resources>
-    <string name="app_name">Superheroes</string>
-    <string name="hero1">Nick the Night and Day</string>
-    <string name="description1">The Jetpack Hero</string>
-    <string name="hero2">Reality Protector</string>
-    <string name="description2">Understands the absolute truth</string>
-    <string name="hero3">Andre the Giant</string>
-    <string name="description3">Mimics the light and night to blend in</string>
-    <string name="hero4">Benjamin the Brave</string>
-    <string name="description4">Harnesses the power of canary to develop bravely</string>
-    <string name="hero5">Magnificent Maru</string>
-    <string name="description5">Effortlessly glides in to save the day</string>
-    <string name="hero6">Dynamic Yasmine</string>
-    <string name="description6">Ability to shift to any form and energize</string>
+    <string name="app_name">Радиактивные люди</string>
+    <string name="hero1">Ник День и Ночь</string>
+    <string name="description1">Герой с реактивным ранцем</string>
+    <string name="hero2">Защитник Реальности</string>
+    <string name="description2">Видит истину без искажений</string>
+    <string name="hero3">Андре Великан</string>
+    <string name="description3">Сливается со светом и тьмой</string>
+    <string name="hero4">Бенджамин Храбрый</string>
+    <string name="description4">Черпает силу от несчастного златопольского</string>
+    <string name="hero5">Повелитель debugg</string>
+    <string name="description5">Летит легко, спасая день</string>
+    <string name="hero6">Динамичная Ясмин</string>
+    <string name="description6">Мгновенно меняет форму и силу</string>
 </resources>
