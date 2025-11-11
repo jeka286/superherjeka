@@ -155,7 +155,7 @@ fun HeroPreview() {
     val hero = Hero(
         R.string.hero1,
         R.string.description1,
-        R.drawable.android_superhero1
+        R.drawable.nikifor
     )
     SuperheroesTheme {
         HeroListItem(hero = hero)
